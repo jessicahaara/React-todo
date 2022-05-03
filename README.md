@@ -9,4 +9,3 @@ User stories:
 "I appen så vill jag kunna sortera i listan med uppgifter."
 "I appen så vill jag kunna se ifall en uppgift har förfallit."
 
-Arbetsprovet utförs i katalogen `react`.
